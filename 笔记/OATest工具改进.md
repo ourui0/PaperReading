@@ -2,7 +2,7 @@
 
 ## 局限性
 
-![](Screenshot 2026-03-23 165223.png)
+![Screenshot 2026-03-23 165223.png](Screenshot 2026-03-23 165223.png)
 
 ## 1. 模式来源局限：依赖文档化测试（Documented Tests）导致数量受限
 
